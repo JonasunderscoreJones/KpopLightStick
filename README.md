@@ -58,7 +58,7 @@ const int motorPin = 8; // Pin to control the motor
 
 ### Instructions
 1. Connect a Power button to the Arduino `buttonPin` and groud
-2. Connect the Vibration Motor (A simple motor with some weight glued of axis to make it vibrate when rotating) to the `motorPin` and ground
+2. Connect the Vibration Motor (A simple motor with some weight glued off-axis to make it vibrate when rotating) to the `motorPin` and ground
 3. Connect the RGB LEDs to the 3 color pins and 3.3V
 4. Glue together 3 AAA Batteries, solder them together and connect them to the Voltage In` and ground
 5. Flash the Arduino Nano with the program and you're done.
