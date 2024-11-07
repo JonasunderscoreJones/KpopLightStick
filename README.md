@@ -62,7 +62,7 @@ const int motorPin = 8; // Pin to control the motor
 3. Connect the RGB LEDs to the 3 color pins and 3.3V
 4. Glue together 3 AAA Batteries, solder them together and connect them to the Voltage In` and ground
 5. Flash the Arduino Nano with the program and you're done.
-6. Insert the electronics into the Arduino and close it up.
+6. Insert the electronics into the Arduino and close it up. The batteries go into the `Handle Base Bottom.stl` that is simply forced into the `Handle Base.stl`. There is a locking mechanism like the Official Lightstick has but I have found it to not be necessary as the fit is tight enough.
 
 ## Usage
 Hold the Power Button for approx. 1 second and release it. The Lightstick should vibrate for a second and then the lights turn on, defaulting to a neon green.
