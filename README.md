@@ -31,6 +31,8 @@ The `Block Top.stl` file can be modified to not come with holes for the `Neo_Cit
 - `shiny_t_thicker.stl`
 - `shiny_t.stl`
 
+*Since I had issues with the prints of the letters, I made a thicker version of each letter to ensure that there would be no holes.*
+
 ## Assembly
 The Assembly of the Prints is pretty self-explanatory. Take a look at the pictures in the `/picture` folder of the repo.
 
