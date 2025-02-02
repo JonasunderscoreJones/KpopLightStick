@@ -1,7 +1,11 @@
 # K-Pop Lightstick
 This Repo features the software of an Arduino Lightstick as well as the 3D Files for a custom **NCT DREAM** Lightstick
 
-![Alt text](/pictures/lightstick_top3d.png)
+<div style="display: flex; justify-content: space-between">
+  <img src="pictures/lightstick_top3d.png" style="height: 300px; width: auto;"/>
+  <img src="pictures/IMG_20241030_191920424.jpg" style="height: 300px; width: auto;"/>
+</div>
+
 
 ## 3D-Print
 The Lightstick was printed in 3 different colors.
